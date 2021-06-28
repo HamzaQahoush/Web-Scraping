@@ -12,3 +12,5 @@ Web scraping is used to collect large information from websites. But why does so
 • Research and Development: Web scraping is used to collect a large set of data (Statistics, General Information, Temperature, etc.) from websites, which are analyzed and used to carry out Surveys or for R&D.
 
 • Job listings: Details regarding job openings, interviews are collected from different websites and then listed in one place so that it is easily accessible to the user.
+
+### This lab was done in collaboraton with Ahmad Zatar 
